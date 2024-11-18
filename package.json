@@ -18,5 +18,9 @@
         "path": "./themes/Tonmoy-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonmoyTalukder/tonmoy-vscode-theme.git"
   }
 }
