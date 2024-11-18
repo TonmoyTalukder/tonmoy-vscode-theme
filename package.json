@@ -1,0 +1,22 @@
+{
+  "name": "tonmoy-vscode-theme",
+  "displayName": "tonmoy-vscode-theme",
+  "description": "The Theme Tonmoy Talukder uses in VS Code for longtime coding. ",
+  "version": "0.0.1",
+  "publisher": "Tonmoy-Theme",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tonmoy-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tonmoy-Theme-color-theme.json"
+      }
+    ]
+  }
+}
